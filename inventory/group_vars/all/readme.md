@@ -1,1 +1,1 @@
-placeholder for if credentials are used
+placeholder for if group variables are used
