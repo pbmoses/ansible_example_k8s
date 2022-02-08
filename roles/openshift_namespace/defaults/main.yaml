@@ -1,2 +1,2 @@
-example_namespace: pmo-namespace
+openshift_namespace: pmo-namespace
 ansible_python_interpreter: /usr/local/bin/python3
